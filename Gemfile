@@ -4,7 +4,7 @@ gem "sinatra"
 gem "hashie"
 gem "Sinatra", "1.4.4"
 gem "Octokit" ~> 2.0
-Pry
+gem "Pry"
 gem 'AwesomePrint' , git: 'https://git@github.com/-print/awesome_print/'
 
 
