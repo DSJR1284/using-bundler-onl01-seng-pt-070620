@@ -4,7 +4,7 @@ gem 'rspec'
 gem 'hashie'
 gem 'sinatra', '1.4.4'
 gem 'octokit', '~> 2.0'
-gem 'Pry'
+# gem 'pry'
 gem 'awesome_print', git: => 'https://github.com/awesome_print/awesome_print'
 
 
